@@ -1,7 +1,7 @@
 # AI Foundations
 
 ## Artificial Intelligence
----
+
 ### “Machines that can understand, reason, and learn”
 
 #### Types of AI
