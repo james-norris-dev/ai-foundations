@@ -1,6 +1,7 @@
 # AI Foundations
 
 ## Artificial Intelligence
+---
 ### “Machines that can understand, reason, and learn”
 
 #### Types of AI
@@ -148,3 +149,4 @@ PROMPT ———> LLM ———> ANSWER ———> ACTION
                             REASONING                TOOLS
 
 ##### AGI — ARTIFICIAL GENERAL INTELLIGENCE
+
